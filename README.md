@@ -1,6 +1,6 @@
 # DoodleFinn 2
 
-**Group: Anna Noonan, Andi Chen, Dylan Gold**
+
 
 ## Introduction
 
